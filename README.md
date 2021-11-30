@@ -1,2 +1,2 @@
-# film_category_guesser_model
+# Film category guesser
 Guess film category based on film description
